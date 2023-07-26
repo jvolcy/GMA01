@@ -51,10 +51,10 @@
     {"id":{"name":"sBubbleStrip9","path":"sprites/sBubbleStrip9/sBubbleStrip9.yy",},},
     {"id":{"name":"oVWall","path":"objects/oVWall/oVWall.yy",},},
     {"id":{"name":"oOverlay","path":"objects/oOverlay/oOverlay.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"rMain","path":"rooms/rMain/rMain.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rMain","path":"rooms/rMain/rMain.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
